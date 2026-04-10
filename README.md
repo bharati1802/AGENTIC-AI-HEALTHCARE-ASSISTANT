@@ -113,8 +113,8 @@ User → Planner Agent → JSON → Executor → Tool/API → Response
 
 ## 📌 Author
 
-Your Name
+Bharati Patil
 
 ---
 
-## ⭐ If you like this project, give it a star!
+
